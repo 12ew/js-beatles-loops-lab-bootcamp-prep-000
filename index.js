@@ -23,7 +23,7 @@ function iLoveTheBeatles(number) {
   
   do {
     array.push("I love the Beatles!")
-    number = number + 1; //number++; does the same
+    number = number + 1; //number++ does the same
     
   } while (number < 15) {
   return array;
